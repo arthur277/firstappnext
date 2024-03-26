@@ -9,7 +9,7 @@ export default function Container  ({children}) {
             <div className="container-fluid justify-content-center">
                 <Link href="/" className="navbar-brand mx-4">Accueil</Link>
                 <Link href="/blog" className="navbar-brand mx-4">Blog</Link>
-                <Link href="/utilisateurs" className="navbar-brand mx-4">Liste</Link>
+                <Link href="/utilisateurs" className="navbar-brand mx-4">Liste Philippe</Link>
             </div>
         </nav>
         {children}

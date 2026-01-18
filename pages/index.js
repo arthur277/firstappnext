@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="container px-4 pt-5">
-        <h1>Bienvenue dans mon blog</h1>
+        <h1>Bienvenue dans mon blog pour l'école</h1>
         <span>je compte sur vous pour etre aimable</span>
 
 
